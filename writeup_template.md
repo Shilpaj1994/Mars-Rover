@@ -64,15 +64,15 @@ You're reading it!
 
 - Using world coordinates, we calculated the angle at which the rover should be steered
 
-![1](D:\RoboND-Rover-Project-master\writeup_contents\1.png)
+![1](https://github.com/Shilpaj1994/Mars-Rover/blob/master/writeup_contents/1.png?raw=true)
 
-![6](D:\RoboND-Rover-Project-master\writeup_contents\6.png)
+![6](https://github.com/Shilpaj1994/Mars-Rover/blob/master/writeup_contents/6.png?raw=true)
 
 
 
-![4](D:\RoboND-Rover-Project-master\writeup_contents\4.png)
+![4](https://github.com/Shilpaj1994/Mars-Rover/blob/master/writeup_contents/4.png?raw=true)
 
-![5](D:\RoboND-Rover-Project-master\writeup_contents\5.png)
+![5](https://github.com/Shilpaj1994/Mars-Rover/blob/master/writeup_contents/5.png?raw=true)
 
 #### 1. Populate the `process_image()` function with the appropriate analysis steps to map pixels identifying navigable terrain, obstacles and rock samples into a worldmap.  Run `process_image()` on your test data using the `moviepy` functions provided to create video output of your result. 
 <video src="D:\RoboND-Rover-Project-master\writeup_contents\test_mapping.mp4"></video>
@@ -109,7 +109,9 @@ You're reading it!
 
 - The pipeline might fail sometimes when the rover gets stuck in certain region of the map
 
-<video src="D:\RoboND-Rover-Project-master\writeup_contents\2019-03-21-1052-20.mp4"></video>
+<video src="https://youtu.be/eUlLo_8CkWQ"></video>
+
+
 
 ### Future Improvements
 
